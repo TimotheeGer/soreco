@@ -1,0 +1,72 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production build
+/build
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+.vscode
+.idea
+*.log
+
+# Local History
+.localhistory
+
+# MacOS specific files
+*.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Linux specific files
+*.swp
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# Ignore the lockfile (yarn.lock or package-lock.json)
+# Uncomment the following line if you want to ignore the lockfile
+# package-lock.json
+# yarn.lock
+
+# Optional npm cache directory
+.npm
+
+# npm-debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jest
+/jest.config.js
+
+# .next directory (for Next.js projects)
+.next/
+
+# Parcel-bundler cache (for Parcel projects)
+/.cache
+
+# TypeScript
+*.tsbuildinfo
