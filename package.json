@@ -2,7 +2,7 @@
   "name": "trydo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://trydo.rainbowit.net",
+  "homepage": "https://github.com/TimotheeGer/soreco",
   "basename": "/",
   "dependencies": {
     "@svgr/webpack": "4.1.0",
